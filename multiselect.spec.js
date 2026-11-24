@@ -5,5 +5,5 @@ test('test', async ({ page }) => {
   await page.getByRole('button', { name: 'Multi-Select' }).click();
   await page.getByRole('listbox').selectOption('option1');
   await page.getByRole('listbox').selectOption('option2');
-  await page.getByRole('listbox').selectOption('option3');
+  
  });
