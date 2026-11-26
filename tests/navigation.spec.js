@@ -20,5 +20,5 @@ await page.locator("#permanentAddress").fill("Chennai Porur");
 await page.locator('button[classA="btn").click();
 console.log('file changed')
                    console.log('file changed 2 nd tyime')
-                   })
+                   }):
      
