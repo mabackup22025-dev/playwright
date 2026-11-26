@@ -18,4 +18,6 @@ await page.locator("input[placeholder="name@example.com"]').fil1("muthu@456");
 await page.locator('textarea[placeholder-"Current Address"J').fil1("chennai Porur");
 await page.locator("#permanentAddress").fill("Chennai Porur");
 await page.locator('button[classA="btn").click();
-})
+console.log('file changed')
+                   })
+     
